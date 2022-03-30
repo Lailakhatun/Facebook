@@ -1,0 +1,77 @@
+@media screen and (max-width:980px) {
+    .logo{width:100%;
+          float: none;
+          text-align: center;
+    
+    
+    }
+.maininput{ width:700px;
+    margin: 15px 0px;
+    float: none;
+    text-align: center;
+    
+
+}
+.left-area{width:100%;
+  float: none;
+  text-align:center;
+
+
+}
+
+.left-area p{width:100%;}
+
+
+}
+
+@media screen and (max-width:768px){
+
+    .logo{width:100%;
+        float: none;
+        text-align: center;
+  
+  
+  }
+.maininput{ width:700px;
+  margin: 15px 0px;
+  float: none;
+  text-align: center;
+  
+
+}
+
+
+
+
+    
+}
+
+@media screen and (max-widdh:480px){
+
+    .logo{width:100%;
+        float: none;
+        text-align: center;
+  
+  
+  }
+.maininput{ width:300px;
+  margin: 15px 0px;
+  float: none;
+  text-align: center;
+  
+
+}
+
+.right-area{width:100%;
+float: none;
+
+.text-align: center;
+
+}
+
+.maininput form{float: none;}
+
+
+}
+
+
